@@ -4,6 +4,16 @@
       "name": "test",
       "price": "15",
       "id": 2
+    },
+    {
+      "name": "teste",
+      "price": "20.58",
+      "id": 3
+    },
+    {
+      "name": "aaa",
+      "price": "14.8",
+      "id": 4
     }
   ]
 }
